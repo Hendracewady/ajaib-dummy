@@ -14,19 +14,19 @@
           "title": "android-trinity",
           "description": "android-trinity is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
           "like": 4,
-          "createdDate": ""
+          "createdDate": 1642417200000
         },
         {
           "title": "Android-CleanArchitecture",
           "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
           "like": 44,
-          "createdDate": ""
+          "createdDate": 1642410000000
         },
         {
           "title": "Arrow",
           "description": "Arrow is Lightweight library toolbox for Java and Android Development.",
           "like": 444,
-          "createdDate": ""
+          "createdDate": 1642415433000
         }
       ]
     },
@@ -44,19 +44,19 @@
           "title": "android-trinity-2",
           "description": "android-trinity-2 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
           "like": 10,
-          "createdDate": ""
+          "createdDate": 1642398355000
         },
         {
           "title": "Android-CleanArchitecture-2",
           "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
           "like": 111,
-          "createdDate": ""
+          "createdDate": 1642399882000
         },
         {
           "title": "Arrow-2",
           "description": "Arrow-2 is Lightweight library toolbox for Java and Android Development.",
           "like": 1,
-          "createdDate": ""
+          "createdDate": 1642402823000
         }
       ]
     },
@@ -74,19 +74,19 @@
           "title": "android-trinity-3",
           "description": "android-trinity-3 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
           "like": 574,
-          "createdDate": ""
+          "createdDate": 1642407765000
         },
         {
           "title": "Android-CleanArchitecture-3",
           "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
           "like": 1075,
-          "createdDate": ""
+          "createdDate": 1642418565000
         },
         {
           "title": "Arrow-3",
           "description": "Arrow-3 is Lightweight library toolbox for Java and Android Development.",
           "like": 12088,
-          "createdDate": ""
+          "createdDate": 1642417882000
         }
       ]
     },
@@ -104,19 +104,19 @@
           "title": "android-trinity-4",
           "description": "android-trinity-4 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
           "like": 0,
-          "createdDate": ""
+          "createdDate": 1642415002000
         },
         {
           "title": "Android-CleanArchitecture-4",
           "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
           "like": 2,
-          "createdDate": ""
+          "createdDate": 1641121200000
         },
         {
           "title": "Arrow-4",
           "description": "Arrow is Lightweight library toolbox for Java and Android Development.",
           "like": 1,
-          "createdDate": ""
+          "createdDate": 1609585200000
         }
       ]
     }
