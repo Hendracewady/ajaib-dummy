@@ -27,6 +27,24 @@
           "description": "Arrow is Lightweight library toolbox for Java and Android Development.",
           "like": 444,
           "createdDate": 1642415433000
+        },
+        {
+          "title": "android-trinity",
+          "description": "android-trinity is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
+          "like": 4,
+          "createdDate": 1642417200000
+        },
+        {
+          "title": "Android-CleanArchitecture",
+          "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+          "like": 44,
+          "createdDate": 1642410000000
+        },
+        {
+          "title": "Arrow",
+          "description": "Arrow is Lightweight library toolbox for Java and Android Development.",
+          "like": 444,
+          "createdDate": 1642415433000
         }
       ]
     },
