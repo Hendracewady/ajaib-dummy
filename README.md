@@ -1,2 +1,2 @@
-# ajaib-dummy
-to fake mock API for testing
+# Mock API
+Created for testing only using mock JSON
