@@ -1,136 +1,138 @@
 {
-  "data": [
-    {
-      "imageUrl": "https://s3-alpha-sig.figma.com/img/a054/4d1b/ea321bdc65f8906e6d1632831ef6e29c?Expires=1643587200&Signature=dPN5XuBiJwjcXjcKqjlFlsnR6wyJahgGfG5L8iQkDTx5or6Bh9sPB9Me2dBLBrpTpG6AwkoGApNf4b5qal1QzlYZ2wbMRBSrF5fRrRzkGHAhnHvkuKCl6~PNPTG7qCIbLaVFsVdQ6Q8Skm38t13b1Gfat8P-6WvH7BWtK4DSael0QDuS4j-NEQ3O7g6uIhTwxUWitGRqxbGh0xiJTbE8A977Yfsti~nONb9HxeeN7DyUa882ecNLSKtqIf~L6VuCg0kCfB-qQFnjAHptDAkOY-ZnOw0aoDXUp9j7nUvppZ7yLsA6AQE5FpVMksuW~qmiqqa6Wj1W5lzPxZd8GEIy9w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "realName": "Andi Setiawan",
-      "username": "@andiSetiawan",
-      "jobTitle": "Manager Engineering of Ajaib",
-      "location": "Jakarta, Indonesia",
-      "email": "andi.setiawan@ajaib.com",
-      "follower": 1512314,
-      "following": 2662123,
-      "portofolio": [
-        {
-          "title": "android-trinity",
-          "description": "android-trinity is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
-          "like": 4,
-          "createdDate": 1642417200000
-        },
-        {
-          "title": "Android-CleanArchitecture",
-          "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
-          "like": 44,
-          "createdDate": 1642410000000
-        },
-        {
-          "title": "Arrow",
-          "description": "Arrow is Lightweight library toolbox for Java and Android Development.",
-          "like": 444,
-          "createdDate": 1642415433000
-        },
-        {
-          "title": "Andi-Project-1",
-          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-          "like": 1573,
-          "createdDate": 1468929600000
-        },
-        {
-          "title": "Andi-Project-2",
-          "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-          "like": 56928,
-          "createdDate": 1563507192000
-        }
-      ]
-    },
-    {
-      "imageUrl": "https://s3-alpha-sig.figma.com/img/8728/ad35/37b901577c0eae119a16521e8072ecf1?Expires=1643587200&Signature=VOXQUihPzQOItSHdi1TzcjUemdnFjpaq-uVieSyGFSuvuN7x~ImaT-vHffOh3uTS0KM8JM916or8iVTmzjjEYFfyl7Oan2PE1jTzhtMtnNjKgalxVclzBbPqn57KDAX2lywfvvYJQG8eU8PYBaKgyCYXHuSjHlJYhFTLm9MeO84B-LF26gd1cBIpszQgErAlAgvqvSsEVOTYvGIMrxzxmFy8zGZBykCiAJidmgtq2MmC-~H9IOUHt1DBK94A-WhkrEuTo2r3JnnVr9GjC5r-xqaAShMlM4~GdktpuYH9hUOmLPFWz2epRpWs9D6kmXZJy5UXgCYwyGisro05zzGpzQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "realName": "Boby Gunawan",
-      "username": "@bobgunawan",
-      "jobTitle": "Software Backend Engineer of Ajaib",
-      "location": "Jakarta, Indonesia",
-      "email": "bob.gunawan@ajaib.com",
-      "follower": 123456,
-      "following": 13,
-      "portofolio": [
-        {
-          "title": "android-trinity-2",
-          "description": "android-trinity-2 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
-          "like": 10,
-          "createdDate": 1642398355000
-        },
-        {
-          "title": "Android-CleanArchitecture-2",
-          "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
-          "like": 111,
-          "createdDate": 1642399882000
-        },
-        {
-          "title": "Arrow-2",
-          "description": "Arrow-2 is Lightweight library toolbox for Java and Android Development.",
-          "like": 1,
-          "createdDate": 1642402823000
-        }
-      ]
-    },
-    {
-      "imageUrl": "https://s3-alpha-sig.figma.com/img/4bea/73b3/b93e6686bfc9be83ae81e3c32ddb7c41?Expires=1643587200&Signature=G4m0XB4-AsP893OAvJl8ticqTuNgNjVDxRtQv~ROq84PvOt2qRRKEI1LJbzLzlyaYMQCYMlFBVlGCugXlcdsZZh8oo~hiJibKUWDgirnj5xG-06-G4bOULRkNardse9UsArA7j7uI3-ffvzqqF1uF0Q~DYYRHDTtgS6W88~9IPyjE2bIYL82idF2skSnxZaRvqFMHjCD89aJmpVuQGdJ3XDU84GjJASsRu~BT3Iat4aCiBVpmrKbE6XrExnNdF5HQxtCmGHpx3cnJAgCKsdZ1Mn~SzLexb5jsd~MxybGJpiQmSbXOvAPu25wWHLd4TNku1DW7nTAQ5N7g66vczr1Yg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "realName": "Christo Farrel",
-      "username": "@chrisrel",
-      "jobTitle": "Software Quality Engineer Lead of Ajaib",
-      "location": "Melbourne, Australia",
-      "email": "c.farrel@ajaib.com",
-      "follower": 15123,
-      "following": 12555,
-      "portofolio": [
-        {
-          "title": "android-trinity-3",
-          "description": "android-trinity-3 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
-          "like": 2839940,
-          "createdDate": 1642407765000
-        },
-        {
-          "title": "Android-CleanArchitecture-3",
-          "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
-          "like": 1075,
-          "createdDate": 1642418565000
-        },
-        {
-          "title": "Arrow-3",
-          "description": "Arrow-3 is Lightweight library toolbox for Java and Android Development.",
-          "like": 12088,
-          "createdDate": 1642417882000
-        },
-        {
-          "title": "Farrel-Project-99",
-          "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
-          "like": 894736,
-          "createdDate": 642448012411
-        }
-      ]
-    },
-    {
-      "imageUrl": "https://s3-alpha-sig.figma.com/img/39f0/72a8/2fe998aa5eb4df7e51a805514232439e?Expires=1643587200&Signature=SUJ3ZOYKld-m5Qjufa7y~UySkC12WEYK0rJWJvHalVjPXWGYmkCeLo9gE5YHFOL2gwNeJ0ueblh~NCT710DKHe6aLMIpGrxFUCshbmvbFiKersoDh3ajAsL~hlsJx0PfSIB-qDAl0AR1GAD~tD7HXoy~owyux2NOfn4wCA~zHzolkDIwi7lLRtO2Z8gLxPphjxO44pP9xnibP3JPyhvX01UOZfAuiWTLAi6eE9-IbxLualJfKt4tiLwz3nREHyQtYDOSOcN95UG8GPRFMMzPpRrwnoipvzKbPSTdSwvreaiT-QngY0kcNfXYHX-9Mq04ZegyRbdsT3RXoxX6TBW4xQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
-      "realName": "Andi Fitrianto",
-      "username": "@andifit",
-      "jobTitle": "UI/UX Designer of Ajaib",
-      "location": "Jambi, Indonesia",
-      "email": "fitrianto@ajaib.com",
-      "follower": 0,
-      "following": 1,
-      "portofolio": [
-        {
-          "title": "android-trinity-4",
-          "description": "android-trinity-4 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
-          "like": 0,
-          "createdDate": 1642415002000
-        },
-        {
-          "title": "Android-CleanArchitecture-4",
-          "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
-          "like": 2,
-          "createdDate": 1641121200000
-        }
-      ]
-    }
-  ]
+  "data": {
+    "personal": [
+      {
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/a054/4d1b/ea321bdc65f8906e6d1632831ef6e29c?Expires=1643587200&Signature=dPN5XuBiJwjcXjcKqjlFlsnR6wyJahgGfG5L8iQkDTx5or6Bh9sPB9Me2dBLBrpTpG6AwkoGApNf4b5qal1QzlYZ2wbMRBSrF5fRrRzkGHAhnHvkuKCl6~PNPTG7qCIbLaVFsVdQ6Q8Skm38t13b1Gfat8P-6WvH7BWtK4DSael0QDuS4j-NEQ3O7g6uIhTwxUWitGRqxbGh0xiJTbE8A977Yfsti~nONb9HxeeN7DyUa882ecNLSKtqIf~L6VuCg0kCfB-qQFnjAHptDAkOY-ZnOw0aoDXUp9j7nUvppZ7yLsA6AQE5FpVMksuW~qmiqqa6Wj1W5lzPxZd8GEIy9w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "realName": "Andi Setiawan",
+        "username": "@andiSetiawan",
+        "jobTitle": "Manager Engineering of Ajaib",
+        "location": "Jakarta, Indonesia",
+        "email": "andi.setiawan@ajaib.com",
+        "follower": 1512314,
+        "following": 2662123,
+        "portofolio": [
+          {
+            "title": "android-trinity",
+            "description": "android-trinity is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
+            "like": 4,
+            "createdDate": 1642417200000
+          },
+          {
+            "title": "Android-CleanArchitecture",
+            "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+            "like": 44,
+            "createdDate": 1642410000000
+          },
+          {
+            "title": "Arrow",
+            "description": "Arrow is Lightweight library toolbox for Java and Android Development.",
+            "like": 444,
+            "createdDate": 1642415433000
+          },
+          {
+            "title": "Andi-Project-1",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "like": 1573,
+            "createdDate": 1468929600000
+          },
+          {
+            "title": "Andi-Project-2",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "like": 56928,
+            "createdDate": 1563507192000
+          }
+        ]
+      },
+      {
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/8728/ad35/37b901577c0eae119a16521e8072ecf1?Expires=1643587200&Signature=VOXQUihPzQOItSHdi1TzcjUemdnFjpaq-uVieSyGFSuvuN7x~ImaT-vHffOh3uTS0KM8JM916or8iVTmzjjEYFfyl7Oan2PE1jTzhtMtnNjKgalxVclzBbPqn57KDAX2lywfvvYJQG8eU8PYBaKgyCYXHuSjHlJYhFTLm9MeO84B-LF26gd1cBIpszQgErAlAgvqvSsEVOTYvGIMrxzxmFy8zGZBykCiAJidmgtq2MmC-~H9IOUHt1DBK94A-WhkrEuTo2r3JnnVr9GjC5r-xqaAShMlM4~GdktpuYH9hUOmLPFWz2epRpWs9D6kmXZJy5UXgCYwyGisro05zzGpzQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "realName": "Boby Gunawan",
+        "username": "@bobgunawan",
+        "jobTitle": "Software Backend Engineer of Ajaib",
+        "location": "Jakarta, Indonesia",
+        "email": "bob.gunawan@ajaib.com",
+        "follower": 123456,
+        "following": 13,
+        "portofolio": [
+          {
+            "title": "android-trinity-2",
+            "description": "android-trinity-2 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
+            "like": 10,
+            "createdDate": 1642398355000
+          },
+          {
+            "title": "Android-CleanArchitecture-2",
+            "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+            "like": 111,
+            "createdDate": 1642399882000
+          },
+          {
+            "title": "Arrow-2",
+            "description": "Arrow-2 is Lightweight library toolbox for Java and Android Development.",
+            "like": 1,
+            "createdDate": 1642402823000
+          }
+        ]
+      },
+      {
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/4bea/73b3/b93e6686bfc9be83ae81e3c32ddb7c41?Expires=1643587200&Signature=G4m0XB4-AsP893OAvJl8ticqTuNgNjVDxRtQv~ROq84PvOt2qRRKEI1LJbzLzlyaYMQCYMlFBVlGCugXlcdsZZh8oo~hiJibKUWDgirnj5xG-06-G4bOULRkNardse9UsArA7j7uI3-ffvzqqF1uF0Q~DYYRHDTtgS6W88~9IPyjE2bIYL82idF2skSnxZaRvqFMHjCD89aJmpVuQGdJ3XDU84GjJASsRu~BT3Iat4aCiBVpmrKbE6XrExnNdF5HQxtCmGHpx3cnJAgCKsdZ1Mn~SzLexb5jsd~MxybGJpiQmSbXOvAPu25wWHLd4TNku1DW7nTAQ5N7g66vczr1Yg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "realName": "Christo Farrel",
+        "username": "@chrisrel",
+        "jobTitle": "Software Quality Engineer Lead of Ajaib",
+        "location": "Melbourne, Australia",
+        "email": "c.farrel@ajaib.com",
+        "follower": 15123,
+        "following": 12555,
+        "portofolio": [
+          {
+            "title": "android-trinity-3",
+            "description": "android-trinity-3 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
+            "like": 2839940,
+            "createdDate": 1642407765000
+          },
+          {
+            "title": "Android-CleanArchitecture-3",
+            "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+            "like": 1075,
+            "createdDate": 1642418565000
+          },
+          {
+            "title": "Arrow-3",
+            "description": "Arrow-3 is Lightweight library toolbox for Java and Android Development.",
+            "like": 12088,
+            "createdDate": 1642417882000
+          },
+          {
+            "title": "Farrel-Project-99",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "like": 894736,
+            "createdDate": 642448012411
+          }
+        ]
+      },
+      {
+        "imageUrl": "https://s3-alpha-sig.figma.com/img/39f0/72a8/2fe998aa5eb4df7e51a805514232439e?Expires=1643587200&Signature=SUJ3ZOYKld-m5Qjufa7y~UySkC12WEYK0rJWJvHalVjPXWGYmkCeLo9gE5YHFOL2gwNeJ0ueblh~NCT710DKHe6aLMIpGrxFUCshbmvbFiKersoDh3ajAsL~hlsJx0PfSIB-qDAl0AR1GAD~tD7HXoy~owyux2NOfn4wCA~zHzolkDIwi7lLRtO2Z8gLxPphjxO44pP9xnibP3JPyhvX01UOZfAuiWTLAi6eE9-IbxLualJfKt4tiLwz3nREHyQtYDOSOcN95UG8GPRFMMzPpRrwnoipvzKbPSTdSwvreaiT-QngY0kcNfXYHX-9Mq04ZegyRbdsT3RXoxX6TBW4xQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "realName": "Andi Fitrianto",
+        "username": "@andifit",
+        "jobTitle": "UI/UX Designer of Ajaib",
+        "location": "Jambi, Indonesia",
+        "email": "fitrianto@ajaib.com",
+        "follower": 0,
+        "following": 1,
+        "portofolio": [
+          {
+            "title": "android-trinity-4",
+            "description": "android-trinity-4 is tiny proactive framework with much of the scaffolding code required to start a new Android Application.",
+            "like": 0,
+            "createdDate": 1642415002000
+          },
+          {
+            "title": "Android-CleanArchitecture-4",
+            "description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+            "like": 2,
+            "createdDate": 1641121200000
+          }
+        ]
+      }
+    ]
+  }
 }
